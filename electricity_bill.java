@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class electrity_bill
+public class electricity_bill
 {
     public static void main(String args[])
     {
